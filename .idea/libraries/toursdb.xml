@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="toursdb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/db/databases/toursdb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

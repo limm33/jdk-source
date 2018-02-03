@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jconsole-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/scripting/jconsole-plugin/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/scripting/jconsole-plugin/jconsole-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

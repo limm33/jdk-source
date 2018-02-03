@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="src1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/jvmti/versionCheck/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

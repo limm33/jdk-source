@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TableExample">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/jfc/TableExample/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/jfc/TableExample/TableExample.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Java2D">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/jfc/Java2D/Java2Demo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/jfc/Java2D/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

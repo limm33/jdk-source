@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SwingApplet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/jfc/SwingApplet/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/jfc/SwingApplet/SwingApplet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

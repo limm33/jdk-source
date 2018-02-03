@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/javafx_samples/src/Ensemble8/lib/lucene-core-3.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JDK_demos_8u66/src/demo/javafx_samples/src/Ensemble8/lib/lucene-grouping-3.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
