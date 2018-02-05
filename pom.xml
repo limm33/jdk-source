@@ -13,4 +13,31 @@
     <module>jdk1.9</module>
     <module>demo</module>
   </modules>
+
+  <properties>
+
+    <java.version>1.8</java.version>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+    <maven-compiler-plugin.version>3.0</maven-compiler-plugin.version>
+  </properties>
+
+  <build>
+    <plugins>
+      <!-- 编译插件, 设定JDK版本 -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>${maven-compiler-plugin.version}</version>
+        <configuration>
+          <encoding>${project.build.sourceEncoding}</encoding>
+          <source>${java.version}</source>
+          <target>${java.version}</target>
+          <showDeprecation>true</showDeprecation>
+          <showWarnings>true</showWarnings>
+          <debug>true</debug>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
 </project>
